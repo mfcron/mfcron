@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mfcron
 - 👀 I’m interested in Embedded systems, Machine learning
-- 🌱 I’m currently learning about Machine learning and Deep learning concepts
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning about Embedded Linux, Machine learning and Deep learning concepts
 
 <!---
 mfcron/mfcron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
